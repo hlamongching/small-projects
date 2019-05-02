@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>html un order list example</title>
+</head>
+<body>
+<h4>disc type list</h4>
+<ul type="disc">
+<li>home</li>
+<li>about us</li>
+<li>contact us</li>
+</ul>
+<h4>circle type list</h4>
+<ul type="circle">
+<li>html</li>
+<li>css</li>
+<li>php</li>
+</ul>
+<h4>square type list</h4>
+<ul type="square">
+<li>Pargaph</li>
+<li>table</li>
+<li>lists</li>
+</ul>
+</body>
+</html>
