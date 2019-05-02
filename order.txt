@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>html order list example</title>
+</head>
+<body>
+<h3>alphabet type list</h3>
+<ol type="A">
+<li>home</li>
+<li>about</li>
+<licotact us</li>
+</ol>
+<ol type="1">
+<li>html</li>
+<li>css</li>
+<li>php</li>
+</ol>
+<h3>roman number type list</h3>
+<ol type="I">
+<li>Pargaph</li>
+<li>table</li>
+<li>list</li>
+</ol>
+</body>
+</html>
