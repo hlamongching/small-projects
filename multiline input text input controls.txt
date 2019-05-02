@@ -1,0 +1,15 @@
+<!-- mutiline text input controls>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Multiple-Line Input Control</title>
+</head>
+<body>
+<fform>
+decription:
+<textarea rows="5" cols="5">
+Enter description here..
+</textarea>
+</form>
+</body>
+</html>
