@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>grid work</title>
+	<style>
+		.container{
+			display: grid;
+			grid-template-columns:191px  240px 250px 218px 250px 171px;
+			
+			background-color: #F5C9B2;
+			grid-column-gap: 50px;
+			padding:5px;
+			margin:5px;
+			
+		}
+		.container>div{
+			background-color: #FEF6EE;
+			margin:5px;
+			padding:5px;
+			font-size: 30px;
+			font-family: fantasy;
+		}
+		.item7{
+			grid-column-end: span 2;
+		}
+		.item3{
+			grid-row-end: span 2;
+		}
+		.item4{
+			grid-column-end:span 2;
+		}
+		
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="item1">Organic 
+Skin Care</div>
+		<div class="item2">Minerat
+Makeup</div>
+		<div class="item3">Organic Perfume
+Sale up to 50%</div>
+		<div class="item4">Organic
+Shampoo</div>
+        <div class="item6">6</div>
+		<div class="item7">organic 
+Body care</div>
+		
+		
+		<div class="item10">Organic
+Sunscreens</div>
+		<div class="item11">Organic
+Nail Care</div>
+		
+	</div>
+
+</body>
+</html>
