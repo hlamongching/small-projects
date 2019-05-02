@@ -1,0 +1,27 @@
+single line input controls:
+<!DOCTYPE html>
+<html>
+<head>
+<title>Input control</title>
+</head>
+<body>
+<form>
+First name:<input type="text" name="first_name">
+Last name:<input type="text" name="last_name">
+input type colour:<input type="color" name="favcolor"><br>
+input tyoe date:<input type="date" name="bday"><br>
+<inputy type(date and time):<input type="datetime-local" name="bdaytime"><br>
+input type E-mail:<input type="email" name="email"><br>
+input type month:<input type="month" name="month"><br>
+input type range:<input type="range" name="points" min="0",max="5"><br>
+input type number:<input type="number" name="quantity" min="1" max="5"><br>
+input type search:<input type="search" name="googlesearch"><br>
+input type telephone:<input type="tel"name="usrtel"><br>
+input type time:<input type="time" name="usr_time"><br>
+input type url:<input type="url"name="homepage"><br>
+input type week:<input type="week" name="week_year">
+
+
+</form>
+</body>
+</html>
