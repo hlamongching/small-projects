@@ -1,9 +1,12 @@
 <?php
+$a=10;
+$b=5;
 function myfunc()
 {
-	$x=5;
-	echo "variable x inside function is:$x<br>";
+	global $a,$b;
+	$a=$a + $b;
+	
 }
-
-echo "variable x outside function is:$x<br>";
+myfunc();
+echo $a;
 ?>
